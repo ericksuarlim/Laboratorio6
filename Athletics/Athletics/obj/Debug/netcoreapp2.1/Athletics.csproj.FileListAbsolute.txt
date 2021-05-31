@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\bin\Debug\netcoreapp2.1\Athletics.deps.json
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\bin\Debug\netcoreapp2.1\Athletics.runtimeconfig.json
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\bin\Debug\netcoreapp2.1\Athletics.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\bin\Debug\netcoreapp2.1\Athletics.dll
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\bin\Debug\netcoreapp2.1\Athletics.pdb
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.dll
+C:\Users\USUARIO\Desktop\TecWeb\Proyecto JS\BackEnd\Athletics\Athletics\obj\Debug\netcoreapp2.1\Athletics.pdb

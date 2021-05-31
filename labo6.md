@@ -1,0 +1,2 @@
+Esta API es para el registro de atletas, para una pagina web. Sirve para una WAM(Web Apps Monolitica).
+El modelo es de 3 capas tenesmos una capa de presentacion la cual se encarga de recibir datos del cliente(Postman o el frontEnd web). Estos datos se pasan a la capa de neogicos para ser procesados, recibidos en un controlador el cual requiere de un servicio. La informacion que es procesa por los servicios deberia de pasar a la de base datos, en este caso cree un tipo de listas en los servicios para simular la base de datos.
